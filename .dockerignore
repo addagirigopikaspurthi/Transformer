@@ -1,0 +1,10 @@
+.venv
+.git
+.vercel
+dist
+outputs
+web_data
+tests
+scripts
+__pycache__
+*.pyc

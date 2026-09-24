@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+outputs/
+data/*.csv
+web_data/
+dist/
+.vercel/

@@ -1,0 +1,1 @@
+window.TRANSFORMER_API_URL = '';
